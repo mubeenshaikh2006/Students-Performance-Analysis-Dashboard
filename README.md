@@ -29,10 +29,14 @@ The dashboard aims to:
 
 **🛠️ Tools & Technologies***
 
-📊 Power BI Desktop	Dashboard creation & visualization |
-📂 Power Query	Data cleaning & transformation |
-🧠 DAX	Calculated measures & KPIs |
-📁 Excel Dataset	Source data |
+📊 Power BI Desktop	Dashboard creation & visualization 
+
+📂 Power Query	Data cleaning & transformation 
+
+🧠 DAX	Calculated measures & KPIs
+
+📁 Excel Dataset	Source data 
+
 🧩 Data Modeling	Relationship building for analysis .
 
 ***📂 Dataset Description**
@@ -47,76 +51,101 @@ This allows analysis of effort vs. outcome relationships.
 
 **1. Key Performance Indicators (KPIs)***
 
-Provides a quick academic snapshot: Total Students: 50 Average Test | Score: 72.05 | Average Study Hours: 10.85 | Average Attendance: 76.70% | Average Assignments Completed: 9.50
+Provides a quick academic snapshot: 
+
+i.Total Students: 50 
+
+ii. Average Test Score: 72.05
+
+iii. Average Study Hours: 10.85
+  
+iv. Average Attendance: 76.70%
+  
+v. Average Assignments Completed: 9.50
 
 ➡ Enables instant evaluation of overall class performance.
 
-***2. Student Distribution Analysis : *** Visualization: Donut chart | Gender-wise student participation |Detects demographic trends and ensures balanced representation
+***2. Student Distribution Analysis : *** 
 
-**3. Performance Comparison by Gender:*** Visualization: Bar chart | Compares average test scores by gender | Supports inclusive academic evaluation
+i. Visualization: Donut chart
+   
+ii. Gender-wise student participation
+   
+iii. Detects demographic trends and ensures balanced representation
+
+**3. Performance Comparison by Gender:*** 
+
+i. Visualization: Bar chart 
+
+ii. Compares average test scores by gender 
+
+iii. Supports inclusive academic evaluation
 
 ***4. Attendance vs Test Score:***
 
-Visualization: Line chart
+i. Visualization: Line chart
 
-Highlights correlation: Higher attendance → Better performance
+ii. Highlights correlation: Higher attendance → Better performance
 
-Demonstrates the importance of classroom engagement
+iii. Demonstrates the importance of classroom engagement
 
-5. Assignments vs Academic Results
+***5. Assignments vs Academic Results**
 
 Students completing more assignments tend to:
 
-Achieve higher understanding
+i. Achieve higher understanding
 
-Score better
+ii. Score better
 
-Maintain consistent performance
+iii . Maintain consistent performance
 
-6. Study Hours Impact Analysis
+***6. Study Hours Impact Analysis***
 
-Visualization: Scatter chart
+i. Visualization: Scatter chart
 
-Smart studying patterns directly influence outcomes
+ii. Smart studying patterns directly influence outcomes
 
-Identifies optimal study behavior
+iii. Identifies optimal study behavior
 
-7. Individual Student Performance
+***7. Individual Student Performance***
 
 Tracks score variation among students
 
-Helps identify:
+i. Helps identify:
 
-High achievers
+ii. High achievers
 
-Average learners
+iii. Average learners
 
-Students needing intervention
+iv. Students needing intervention
 
-8. Interactive Filters
+***8. Interactive Filters***
 
 Dynamic filtering by:
 
-Gender
+i.Gender
 
-Attendance Range
+ii.Attendance Range
 
-Hours Studied
+iii.Hours Studied
 
-Assignments Completed
+iv. Assignments Completed
 
 ➡ Enables custom, deeper insights.
 
-💡 Key Insights
+***💡 Key Insights***
 
-Attendance plays a critical role in academic success
+i. Attendance plays a critical role in academic success
 
-Continuous assignments improve learning outcomes
+ii. Continuous assignments improve learning outcomes
 
-Study hours strongly correlate with test performance
+iii. Study hours strongly correlate with test performance
 
-Data visualization helps identify struggling students early
+iv. Data visualization helps identify struggling students early
 
-Institutions can plan targeted improvement programs
+v. Institutions can plan targeted improvement programs
 
 📷 Dashboard Preview
+
+![Dashboard Preview](student_performance_analysis dashboard.png)
+
