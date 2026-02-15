@@ -5,85 +5,57 @@ An interactive Power BI dashboard designed to analyze academic data and uncover 
 
 It answers critical questions such as:
 
-Do more study hours improve scores?
+1.Do more study hours improve scores?
 
-How strongly does attendance affect performance?
-Are assignments helping students learn?
-How can we identify students who need support early?
+2.How strongly does attendance affect performance?
 
-🎯 Objectives
+3.Are assignments helping students learn?
+
+4.How can we identify students who need support early?
+
+***🎯 Objectives***
 
 The dashboard aims to:
 
-Monitor overall student performance
+1.Monitor overall student performance
 
-Identify key factors affecting academic results
+2.Identify key factors affecting academic results
 
-Enable data-driven decisions by educators
+2.Enable data-driven decisions by educators
 
-Provide insights into learning behavior
+3.Provide insights into learning behavior
 
-Support academic planning and early interventions
+4.Support academic planning and early interventions
 
-🛠️ Tools & Technologies
-Tool	Purpose
-📊 Power BI Desktop	Dashboard creation & visualization
-📂 Power Query	Data cleaning & transformation
-🧠 DAX	Calculated measures & KPIs
-📁 Excel Dataset	Source data
-🧩 Data Modeling	Relationship building for analysis
-📂 Dataset Description
+**🛠️ Tools & Technologies***
+
+📊 Power BI Desktop	Dashboard creation & visualization |
+📂 Power Query	Data cleaning & transformation |
+🧠 DAX	Calculated measures & KPIs |
+📁 Excel Dataset	Source data |
+🧩 Data Modeling	Relationship building for analysis .
+
+***📂 Dataset Description**
 
 The dataset includes student-level academic information:
 
-👨‍🎓 Student ID
-
-⚧ Gender
-
-📝 Test Score
-
-📅 Attendance %
-
-⏱ Hours Studied
-
-📚 Assignments Completed
+👨‍🎓 Student ID |⚧ Gender |📝 Test Score |📅 Attendance % | ⏱ Hours Studied |📚 Assignments Completed
 
 This allows analysis of effort vs. outcome relationships.
 
-📊 Dashboard Features
-1. Key Performance Indicators (KPIs)
+***📊 Dashboard Features***
 
-Provides a quick academic snapshot:
+**1. Key Performance Indicators (KPIs)***
 
-Total Students: 50
-
-Average Test Score: 72.05
-
-Average Study Hours: 10.85
-
-Average Attendance: 76.70%
-
-Average Assignments Completed: 9.50
+Provides a quick academic snapshot: Total Students: 50 Average Test | Score: 72.05 | Average Study Hours: 10.85 | Average Attendance: 76.70% | Average Assignments Completed: 9.50
 
 ➡ Enables instant evaluation of overall class performance.
 
-2. Student Distribution Analysis
+***2. Student Distribution Analysis : *** Visualization: Donut chart | Gender-wise student participation |Detects demographic trends and ensures balanced representation
 
-Visualization: Donut chart
+**3. Performance Comparison by Gender:*** Visualization: Bar chart | Compares average test scores by gender | Supports inclusive academic evaluation
 
-Gender-wise student participation
-
-Detects demographic trends and ensures balanced representation
-
-3. Performance Comparison by Gender
-
-Visualization: Bar chart
-
-Compares average test scores by gender
-
-Supports inclusive academic evaluation
-
-4. Attendance vs Test Score
+***4. Attendance vs Test Score:***
 
 Visualization: Line chart
 
