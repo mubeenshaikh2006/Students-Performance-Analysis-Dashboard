@@ -147,5 +147,5 @@ v. Institutions can plan targeted improvement programs
 
 📷 Dashboard Preview
 
-![Dashboard Preview](student_performance_analysis dashboard.png)
+(student_performance_analysis dashboard.png)
 
