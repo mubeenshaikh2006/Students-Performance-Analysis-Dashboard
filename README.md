@@ -1,8 +1,9 @@
-***🎓 Students Performance Analysis Dashboard***
+# 🎓 Students Performance Analysis Dashboard
 
 ---
 
-***📊 Overview:***
+# 📊 Overview:
+
 An interactive Power BI dashboard designed to analyze academic data and uncover patterns that influence student performance. This project helps educators understand how study behavior, attendance, and assignments impact learning outcomes.
 
 It answers critical questions such as:
@@ -17,7 +18,7 @@ It answers critical questions such as:
 
 ---
 
-***🎯 Objectives***
+# 🎯 Objectives
 
 ---
 
@@ -35,7 +36,7 @@ The dashboard aims to:
 
 ---
 
-**🛠️ Tools & Technologies***
+# 🛠️ Tools & Technologies
 
 ---
 
@@ -51,7 +52,7 @@ The dashboard aims to:
 
 ---
 
-***📂 Dataset Description**
+# 📂 Dataset Description
 
 ---
 
@@ -63,7 +64,7 @@ This allows analysis of effort vs. outcome relationships.
 
 ---
 
-***📊 Dashboard Features***
+# 📊 Dashboard Features
 
 ---
 
@@ -183,7 +184,7 @@ iv. Assignments Completed
 
 ---
 
-***💡 Key Insights***
+# 💡 Key Insights
 
 ---
 
@@ -200,7 +201,7 @@ v. Institutions can plan targeted improvement programs
 
 ---
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
 
 ---
 
