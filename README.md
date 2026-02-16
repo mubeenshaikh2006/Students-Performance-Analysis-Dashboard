@@ -4,6 +4,8 @@
 
 # 📊 Overview:
 
+---
+
 An interactive Power BI dashboard designed to analyze academic data and uncover patterns that influence student performance. This project helps educators understand how study behavior, attendance, and assignments impact learning outcomes.
 
 It answers critical questions such as:
