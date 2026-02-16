@@ -19,6 +19,8 @@ It answers critical questions such as:
 
 ***🎯 Objectives***
 
+---
+
 The dashboard aims to:
 
 1.Monitor overall student performance
@@ -35,6 +37,8 @@ The dashboard aims to:
 
 **🛠️ Tools & Technologies***
 
+---
+
 📊 Power BI Desktop	Dashboard creation & visualization 
 
 📂 Power Query	Data cleaning & transformation 
@@ -48,6 +52,8 @@ The dashboard aims to:
 ---
 
 ***📂 Dataset Description**
+
+---
 
 The dataset includes student-level academic information:
 
@@ -83,6 +89,8 @@ v. Average Assignments Completed: 9.50
 
 ***2. Student Distribution Analysis :*** 
 
+---
+
 i. Visualization: Donut chart
    
 ii. Gender-wise student participation
@@ -92,6 +100,8 @@ iii. Detects demographic trends and ensures balanced representation
 ---
 
 **3. Performance Comparison by Gender:*** 
+
+---
 
 i. Visualization: Bar chart 
 
@@ -103,6 +113,8 @@ iii. Supports inclusive academic evaluation
 
 ***4. Attendance vs Test Score:***
 
+---
+
 i. Visualization: Line chart
 
 ii. Highlights correlation: Higher attendance → Better performance
@@ -112,6 +124,8 @@ iii. Demonstrates the importance of classroom engagement
 ---
 
 ***5. Assignments vs Academic Results**
+
+---
 
 Students completing more assignments tend to:
 
@@ -125,6 +139,8 @@ iii . Maintain consistent performance
 
 ***6. Study Hours Impact Analysis***
 
+---
+
 i. Visualization: Scatter chart
 
 ii. Smart studying patterns directly influence outcomes
@@ -134,6 +150,8 @@ iii. Identifies optimal study behavior
 ---
 
 ***7. Individual Student Performance***
+
+---
 
 Tracks score variation among students
 
@@ -148,6 +166,8 @@ iv. Students needing intervention
 ---
 
 ***8. Interactive Filters***
+
+---
 
 Dynamic filtering by:
 
@@ -165,6 +185,8 @@ iv. Assignments Completed
 
 ***💡 Key Insights***
 
+---
+
 
 i. Attendance plays a critical role in academic success
 
@@ -179,6 +201,8 @@ v. Institutions can plan targeted improvement programs
 ---
 
 📷 Dashboard Preview
+
+---
 
 ![Dashboard Preview](dashboard.png)
 
